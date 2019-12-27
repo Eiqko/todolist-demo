@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/todolist-demo/static/css/main.1d956426.chunk.css",
+    "main.js": "/todolist-demo/static/js/main.5f3bed13.chunk.js",
+    "main.js.map": "/todolist-demo/static/js/main.5f3bed13.chunk.js.map",
+    "runtime-main.js": "/todolist-demo/static/js/runtime-main.5535a8b4.js",
+    "runtime-main.js.map": "/todolist-demo/static/js/runtime-main.5535a8b4.js.map",
+    "static/js/2.8090fbc2.chunk.js": "/todolist-demo/static/js/2.8090fbc2.chunk.js",
+    "static/js/2.8090fbc2.chunk.js.map": "/todolist-demo/static/js/2.8090fbc2.chunk.js.map",
+    "index.html": "/todolist-demo/index.html",
+    "precache-manifest.cce1899f967e96702d20aa8dc0ee3f39.js": "/todolist-demo/precache-manifest.cce1899f967e96702d20aa8dc0ee3f39.js",
+    "service-worker.js": "/todolist-demo/service-worker.js",
+    "static/css/main.1d956426.chunk.css.map": "/todolist-demo/static/css/main.1d956426.chunk.css.map",
+    "static/js/2.8090fbc2.chunk.js.LICENSE": "/todolist-demo/static/js/2.8090fbc2.chunk.js.LICENSE",
+    "static/media/logo.svg": "/todolist-demo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5535a8b4.js",
+    "static/js/2.8090fbc2.chunk.js",
+    "static/css/main.1d956426.chunk.css",
+    "static/js/main.5f3bed13.chunk.js"
+  ]
+}
